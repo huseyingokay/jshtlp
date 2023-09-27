@@ -1,0 +1,16 @@
+{
+  "name": "jshtlp",
+  "version": "1.0.0",
+  "description": "Javascript implementation of the paper \"Homomorphic Time-Lock Puzzles and Applications\"",
+  "main": "main.js",
+  "type": "module",
+  "dependencies": {
+    "bigint-crypto-utils": "^3.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
